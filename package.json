@@ -1,0 +1,15 @@
+{
+  "name": "lcd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oawu/lcd1602": "^1.0.3",
+    "got": "^13.0.0"
+  }
+}
